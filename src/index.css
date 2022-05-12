@@ -37,7 +37,7 @@ h1{
 
 .nav-items > li:hover {
   animation: nav-Animation ease 3s;
-  color: white
+  color:white; 
 }
 
 .logo-img {
@@ -49,8 +49,17 @@ width: 175px;
 .main-content {
   padding: 10px 10%;
   justify-content:center;
+  background-image: url(./assets/images/background.jpeg);
+  background-size: 100%;
+  background-repeat: repeat-y;
+  background-color: rgb(133, 50, 50);
+  background-blend-mode:difference;
+ 
 }
 
+.main-content .about-content {
+
+}
 
 .footer {
   position: fixed;
