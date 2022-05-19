@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/osiris/static/css/main.e2114a3d.css",
+    "main.js": "/osiris/static/js/main.ffa09733.js",
+    "static/js/787.b52c1661.chunk.js": "/osiris/static/js/787.b52c1661.chunk.js",
+    "static/media/background.jpeg": "/osiris/static/media/background.2ff765c02f203e3e0fe0.jpeg",
+    "static/media/member.jpeg": "/osiris/static/media/member.63c751c7e9faa48073c8.jpeg",
+    "static/media/sch_b.png": "/osiris/static/media/sch_b.fd2403364616b7025ae2.png",
+    "static/media/email_b.png": "/osiris/static/media/email_b.b863459997d69d771663.png",
+    "static/media/tw_b.png": "/osiris/static/media/tw_b.14620c9a999f104e2a58.png",
+    "static/media/lin_b.png": "/osiris/static/media/lin_b.538107148a773f7f432c.png",
+    "static/media/member2.jpeg": "/osiris/static/media/member2.93fc4211f5c36732fdf1.jpeg",
+    "index.html": "/osiris/index.html",
+    "main.e2114a3d.css.map": "/osiris/static/css/main.e2114a3d.css.map",
+    "main.ffa09733.js.map": "/osiris/static/js/main.ffa09733.js.map",
+    "787.b52c1661.chunk.js.map": "/osiris/static/js/787.b52c1661.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2114a3d.css",
+    "static/js/main.ffa09733.js"
+  ]
+}
